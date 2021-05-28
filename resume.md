@@ -13,7 +13,9 @@ Data Studio | Google Tag Manager | SalesForce | Global digital marketing | Power
 forecasting | Search engine optimization | HTML | Javascript | CSS | Jira | Consulting |
 Product marketing | Certified Scrum Product Owner
 ## Experience and Key Projects
-### Founder/Consultant; Paul Sanders Consulting LLC — 2012 - Current
+### Founder/Consultant 
+#### Paul Sanders Consulting LLC
+##### 2012 - Current
 * Facilitated a 2020 strategic marketing and planning initiative for Kaplan North America
 to assess and integrate the marketing teams of three divisions. Outputs included a
 roadmap, staffing model and recommended technology stacks to support the diverse
@@ -39,7 +41,9 @@ content marketing plans for multiple clients.
 * September 2011- March 2012: Led the transition of Brandpoint from affiliate
 publishing agency to SEO and content marketing, culminating in $1M of incremental
 revenue. Interim lead of the content strategy team.
-### Senior Director of Digital Acquisition; Radisson Hotel Group — 2016 - 2017
+### Senior Director of Digital Acquisition
+#### Radisson Hotel Group
+##### 2016 - 2017
 * Led the strategic development and implementation of SEO, SEM, travel meta-channels
 (TripAdvisor, Trivago, Google, Kayak), affiliate, email and display marketing. $11M
 global budget in 2017. Doubled paid media spend while maintaining flat ROI.
@@ -50,14 +54,18 @@ and paid media channels. .
 * Utilized a product-based approach to improving the digital marketing tech stack.
 * Managed strategic partnerships with Google, TripAdvisor, Kayak, Commission
 Junction, Epsilon and Accenture. Negotiated all agency contracts.
-### Interim Director of Digital Acquisition; Radisson Hotel Group — 2015 - 2016
+### Interim Director of Digital Acquisition; 
+#### Radisson Hotel Group
+##### 2015 - 2016
 * Assessed digital marketing channels and global agency partnerships as an interim
 leader of the digital acquisition team. Implemented company’s first SEO practice.
 * Using data from multiple sources, identified causes and implemented changes to
 alleviate a $2M deficit in marketing funds due impacted by faulty attribution.
 * Identified and recovered $280K of fees due to billing errors from an agency by
 auditing and logging over sixty invoices across four budgets.
-### Managing Director; Nina Hale — 2011-2012
+### Managing Director 
+#### Nina Hale 
+##### 2011-2012
 * Supervised operations for a leading SEO/SEM agency, helping it profitably double in
 size by scaling services and hiring key roles in emerging practices, including data,
 content marketing and SEO.
